@@ -1,0 +1,9 @@
+**/node_modules/
+plugins/nftsite-core/contracts/cache/
+plugins/nftsite-core/contracts/artifacts/
+plugins/nftsite-core/contracts/typechain-types/
+plugins/nftsite-core/contracts/coverage/
+.DS_Store
+Thumbs.db
+.idea/
+config.bat
